@@ -1,0 +1,19 @@
+{
+  "name": "cloud-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SetuBhatt1/Cloud-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SetuBhatt1/Cloud-Practice/issues"
+  },
+  "homepage": "https://github.com/SetuBhatt1/Cloud-Practice#readme",
+  "description": ""
+}
